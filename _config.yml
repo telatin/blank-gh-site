@@ -1,12 +1,12 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
+title: Andrea Telatin GitHub page
+description: Andrea Telatin, PhD - Genomics and Bioinformatics
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://telatin.github.io/"
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
+username: telatin
+user_description: Andrea Telatin GitHub Page
 email: anon@anon.com
 twitter_username: telatin
 github_username:  telatin
