@@ -3,6 +3,6 @@ layout: post
 title: We are almost done
 ---
 
-## Scaffolding with Mate Pairs
+## Blogging like it's 1987
 
-A tale from 2011 that will never end
+Let's try this **vim** powered website, nice to type like it's 1987, but backed by a GitHub repository and versioned...
