@@ -11,13 +11,13 @@ We can get in touch with the social media buttons in the footer.
 
 ### Links
 
-* (Homepage)[https://telatin.com]
-* (Publications)[https://scholar.google.com/citations?user=Bua3yncAAAAJ]
-* (Slides)[https://www.slideshare.net/procionesapiente]
-* (Mini bioinformatics tutorials)[https://medium.com/@telatin]
+* [Homepage](https://telatin.com)
+* [Publications](https://scholar.google.com/citations?user=Bua3yncAAAAJ)
+* [Slides](https://www.slideshare.net/procionesapiente)
+* [Mini bioinformatics tutorials](https://medium.com/@telatin)
 
 ### Spare time activities
 
-* (Scouting training)[https://scautismo.org/kudu] with the **Kudu Association**. 
-* Member and volunteer for (Incontro fra i Popoli)[http://www.incontrofraipopoli.it], an Italian NGO.
+* [Scouting training](https://scautismo.org/kudu) with the **Kudu Association**. 
+* Member and volunteer for [Incontro fra i Popoli](http://www.incontrofraipopoli.it), an Italian NGO.
 
