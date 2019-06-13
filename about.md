@@ -15,6 +15,8 @@ We can get in touch with the social media buttons in the footer.
 * [Publications](https://scholar.google.com/citations?user=Bua3yncAAAAJ)
 * [Slides](https://www.slideshare.net/procionesapiente)
 * [Mini bioinformatics tutorials](https://medium.com/@telatin)
+* [Perl modules](https://metacpan.org/author/PROCH?sort=[[3,1]])
+* [GitHub](https://github.com/telatin/)
 
 ### Spare time activities
 
