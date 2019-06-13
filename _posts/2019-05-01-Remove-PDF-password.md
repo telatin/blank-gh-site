@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Remove PDF password
+title: Remove PDF password CLI
 ---
-
-## Command line PDF password removal
 
 There are handy command line PDF manipulation tools, and while in the past I used several times `pdftk` (to cut and paste pages...), I noticed that its installation in *macOS* is not as easy as it is under Linux, so I gave a try to `qpdf`, that worked perfectly.
 

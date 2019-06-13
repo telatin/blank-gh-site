@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Bash training
+title: Bash training time
 ---
-
-## Time to repeat some Bash Training
 
 This February I'll deliver a second edition of the [Bash for Bioinformatics](https://seq.space/notes/doku.php?id=bash-beginners) training, at the Quadram 
 Institute.
