@@ -15,3 +15,8 @@ Here one of my masterpieces:
 ![GifPlus](https://telatin.github.io/images/Neofox_GifPlus3_Screenshot_1.png)
 
 I'm quite proud of the look and feel, if compared with the standard things at the time ^_^
+
+A totally different story was SmartPad: multiple document interface ([MDI](https://en.wikipedia.org/wiki/Multiple_document_interface)) was at that time 
+too hard for me to manage...
+
+![SmartPad](https://telatin.github.io/images/Neofox_SmartPad.png)
