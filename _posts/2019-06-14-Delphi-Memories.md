@@ -14,9 +14,15 @@ Here one of my masterpieces:
 
 ![GifPlus](https://telatin.github.io/images/Neofox_GifPlus3_Screenshot_1.png)
 
-I'm quite proud of the look and feel, if compared with the standard things at the time ^_^
+I'm quite proud of the look and feel, if compared with the standard things at the time ^_^!
 
-A totally different story was SmartPad: multiple document interface ([MDI](https://en.wikipedia.org/wiki/Multiple_document_interface)) was at that time 
-too hard for me to manage...
+Has that experience been useful somehow? Well, for my very first bioinformatics project (2004) I needed to scrape an online database, and... **Delphi** came to the rescue:
+
+![Data scraper in Delphi](https://telatin.github.io/images/Neofox_Trasfactory.png)
+
+(Every other part of my batchelor project has been written in Perl :heart_eyes:)
+
+A totally different story was SmartPad: *multiple document interface* ([MDI](https://en.wikipedia.org/wiki/Multiple_document_interface)) was at that time 
+too hard for me to manage and so the result was a useless WordPad clone:
 
 ![SmartPad](https://telatin.github.io/images/Neofox_SmartPad.png)
