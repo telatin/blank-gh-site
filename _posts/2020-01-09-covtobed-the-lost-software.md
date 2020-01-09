@@ -3,6 +3,8 @@ layout: post
 title: covtobed, the lost software
 ---
 
+[![CovToBed banner](https://github.com/telatin/covtobed/raw/master/img/coverage_bam_to_bed.png)](https://github.com/telatin/covtobed)
+
 Back in 2014 I was working on a large (for the time) set of *Target Enrichment* panels.
 For the set up of the panels we wanted to check that the regions we wanted were effectively
 captured, and I started using some standard tools (like `samtools`, `bedtools`...) but that
@@ -21,8 +23,6 @@ end of Target Enrichment projects and so and forth...), the source became comple
 forgotten and finally lost.
 
 That became a good lesson for both of us.
-
-![CovToBed banner](https://github.com/telatin/covtobed/raw/master/img/coverage_bam_to_bed.png)
 
 From the ashes of that doomed project we summoned **covtobed**, that we designed:
 
