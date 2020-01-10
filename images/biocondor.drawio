@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-10T14:32:25.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:72.0) Gecko/20100101 Firefox/72.0" etag="CqG8j2id6U4rGEwpdEOa" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-10T14:33:11.473Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:72.0) Gecko/20100101 Firefox/72.0" etag="mz4VFsyCgHdNz9YQzEGP" version="12.5.1" type="github">
   <diagram id="znf6O0QxXXc50ThEWxNj" name="Page-1">
     <mxGraphModel dx="1141" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="100" y="321" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="GCKStTBoDHFz5vkuvNOS-10" value="home" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingTop=0;spacingLeft=7;" parent="1" vertex="1">
-          <mxGeometry x="375" y="120" width="140" height="20" as="geometry"/>
+          <mxGeometry x="375" y="149" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="GCKStTBoDHFz5vkuvNOS-12" value="html_url" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingTop=0;spacingLeft=7;" parent="1" vertex="1">
-          <mxGeometry x="375" y="149" width="140" height="20" as="geometry"/>
+          <mxGeometry x="375" y="120" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="GCKStTBoDHFz5vkuvNOS-13" value="dev_url" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingTop=0;spacingLeft=7;" parent="1" vertex="1">
           <mxGeometry x="375" y="180" width="140" height="20" as="geometry"/>
@@ -57,10 +57,10 @@
           <mxGeometry x="95" y="204.5" width="120" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="du9SW22AbWFtBnbQuV3e-5" value="4934 packages" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="530" y="120" width="120" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="du9SW22AbWFtBnbQuV3e-6" value="7393 packages" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="530" y="149" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="du9SW22AbWFtBnbQuV3e-6" value="(bioconda.github.io)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="120" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="du9SW22AbWFtBnbQuV3e-7" value="211 packages" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="120" height="20" as="geometry"/>
