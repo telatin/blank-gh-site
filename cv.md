@@ -4,7 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
-My full CV is available via [LinkedIn](https://www.linkedin.com/in/andreatelatin)
+* My full CV is available via [LinkedIn](https://www.linkedin.com/in/andreatelatin).
+* My ORCID code is [0000-0001-7619-281X](https://orcid.org/0000-0001-7619-281X).
 
 
 ## Education
