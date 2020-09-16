@@ -18,6 +18,8 @@ on using the computer as a dry lab where to test hypotheses and to inspect speci
 
 ### Experience
 
+![ngs training](images/ngstraining.jpg)
+
 On-contract professor at the University of Padua:
   * Genomics (2009, 2010, 2012, [2014](http://perl.4ngs.com/))
   * Bioinformatics I (2008, 2011, 2012, 2013)
@@ -25,7 +27,8 @@ On-contract professor at the University of Padua:
   * Bioinformatics for Genomics ([University of Ferrara](http://m.docente.unife.it/docenti-en/andrea.telatin), 2015)
 
 Trainer at [BMR Genomics](https://www.bmr-genomics.it/servizi/area-formazione/bioinformatica-16s-ngs/) (spin-off)
-  * 40 hours bioinformatics training for researchers (twice a year, 2015-2017)
+  * 40 hours bioinformatics training for researchers (held twice a year, 2015-2017)
+  * 8 hours bioinformatics training "_Bioinformatics approaches to adaptations, genome evolution and biological associations_" (2015)
 
 Trainer at the [Quadram Institute Bioscience](https://www.quadram.ac.uk/):
   * [Bash for Bioinformatics](https://github.com/telatin/learn_bash/wiki) (2018-2020)
