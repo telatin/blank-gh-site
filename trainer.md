@@ -18,8 +18,6 @@ on using the computer as a dry lab where to test hypotheses and to inspect speci
 
 ### Experience
 
-![ngs training](images/ngstraining.jpg)
-
 On-contract professor at the University of Padua:
   * Genomics (2009, 2010, 2012, [2014](http://perl.4ngs.com/))
   * Bioinformatics I (2008, 2011, 2012, 2013)
@@ -35,4 +33,6 @@ Trainer at the [Quadram Institute Bioscience](https://www.quadram.ac.uk/):
   * Guest trainer at the [CLIMB Workshop in the Gambia, 2018](https://www.climb.ac.uk/mrc-climb-bioinformatics-workshop-at-the-mrc-unit-in-the-gambia/)
   * Invited Trainer at the [Young Biologists Symposium, Lebanon](https://eventscal.lau.edu.lb/conferences/ybs2018/program.php)
   * Bite-sized bioinformatics ([2019-2020](https://medium.com/@telatin))
+
+![ngs training](images/ngstraining.jpg)
 
