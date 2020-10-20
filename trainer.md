@@ -6,6 +6,9 @@ permalink: /training/
 
 ## Bioinformatics training
 
+![ngs training](images/ngstraining.jpg)
+
+
 ### Motivation
 
 I wrote my first bioinformatics programs in 2004, for my batchelor project, and at that time I realized the 
@@ -32,7 +35,8 @@ Trainer at the [Quadram Institute Bioscience](https://www.quadram.ac.uk/):
   * [Bash for Bioinformatics](https://github.com/telatin/learn_bash/wiki) (2018-2020)
   * Guest trainer at the [CLIMB Workshop in the Gambia, 2018](https://www.climb.ac.uk/mrc-climb-bioinformatics-workshop-at-the-mrc-unit-in-the-gambia/)
   * Invited Trainer at the [Young Biologists Symposium, Lebanon](https://eventscal.lau.edu.lb/conferences/ybs2018/program.php)
+  * Invited Trainer at the Jiangnan University (Wuxi, China - November 2019)
   * Bite-sized bioinformatics ([2019-2020](https://medium.com/@telatin))
 
-![ngs training](images/ngstraining.jpg)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s the time for Lizbeth Sayavedra from <a href="https://twitter.com/NarbadLab?ref_src=twsrc%5Etfw">@NarbadLab</a> to present at the 3rd symposium on <a href="https://twitter.com/hashtag/probiotics?src=hash&amp;ref_src=twsrc%5Etfw">#probiotics</a> (Wuxi <a href="https://twitter.com/hashtag/China?src=hash&amp;ref_src=twsrc%5Etfw">#China</a> 🇨🇳) — <a href="https://twitter.com/TheQuadram?ref_src=twsrc%5Etfw">@TheQuadram</a> <a href="https://t.co/gHTxkZNUBw">pic.twitter.com/gHTxkZNUBw</a></p>&mdash; andrea telatin (@telatin) <a href="https://twitter.com/telatin/status/1195553101291409409?ref_src=twsrc%5Etfw">November 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
