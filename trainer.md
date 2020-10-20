@@ -33,10 +33,12 @@ Trainer at [BMR Genomics](https://www.bmr-genomics.it/servizi/area-formazione/bi
 
 Trainer at the [Quadram Institute Bioscience](https://www.quadram.ac.uk/):
   * [Bash for Bioinformatics](https://github.com/telatin/learn_bash/wiki) (2018-2020)
+  * Bite-sized bioinformatics ([2017-2019](https://medium.com/@telatin))
   * Guest trainer at the [CLIMB Workshop in the Gambia, 2018](https://www.climb.ac.uk/mrc-climb-bioinformatics-workshop-at-the-mrc-unit-in-the-gambia/)
   * Invited Trainer at the [Young Biologists Symposium, Lebanon](https://eventscal.lau.edu.lb/conferences/ybs2018/program.php)
   * Invited Trainer at the Jiangnan University (Wuxi, China - November 2019)
-  * Bite-sized bioinformatics ([2019-2020](https://medium.com/@telatin))
+  * Trainer for [MRC CLIMB BIG DATA](http://www.climb.ac.uk/) (Online event, October 2020)
+
 
 
 <div style="margin: 0 auto 0 auto;">
