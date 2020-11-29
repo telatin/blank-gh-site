@@ -1,5 +1,5 @@
 ---
-title: The Great Automatic Nomenclator
+title: The Great Automatic Nomenclator, generate million prokaryotic binomials
 ---
 
 ## Principle

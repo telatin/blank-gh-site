@@ -1,5 +1,5 @@
 ---
-title: covtobed
+title: covtobed, quickly save the coverage track from a BAM file
 ---
 
 ## covtobed

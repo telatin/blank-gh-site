@@ -1,5 +1,5 @@
 ---
-title: IoHeat: a DIY lab device
+title: IoHeat, a remotely controlled lab device
 ---
 
 ## What is IoHeat
