@@ -7,6 +7,8 @@ I first heard of **nim** discovering [mosdepth](https://github.com/brentp/mosdep
 
 I started my best journey in a programming language.
 
+<!--more-->
+
 ### Pros
 
 * It's a compiled language that can bring significant performance
