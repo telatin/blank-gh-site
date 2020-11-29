@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Bioinformatics papers as they should work
+tags:
+  - bioinformatics
 ---
 
 [covtobed](https://github.com/telatin/covtobed) has just been

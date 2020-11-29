@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Online POD preview
+tags:
+  - coding
 ---
 
 The [Plain Old Documentation](https://metacpan.org/pod/perlpod) is probably

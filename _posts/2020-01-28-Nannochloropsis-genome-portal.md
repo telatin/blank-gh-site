@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Nannochloropsis genome portal (moved)
+tags:
+  - bioinformatics
 ---
 
 During my PhD (2012), I made the *Nannochloropsis gaditana* genome portal, and also
