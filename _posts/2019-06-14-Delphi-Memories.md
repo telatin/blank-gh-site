@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Delphi Memories
+tags:
+  - coding
 ---
 
 When I was attending my high school lessons, learning some programming was not so common, yet
@@ -22,7 +24,7 @@ Has that experience been useful somehow? Well, for my very first bioinformatics 
 
 (Every other part of my batchelor project has been written in Perl :heart_eyes:)
 
-A totally different story was SmartPad: *multiple document interface* ([MDI](https://en.wikipedia.org/wiki/Multiple_document_interface)) was at that time 
+A totally different story was SmartPad: *multiple document interface* ([MDI](https://en.wikipedia.org/wiki/Multiple_document_interface)) was at that time
 too hard for me to manage and so the result was a useless WordPad clone:
 
 ![SmartPad](https://telatin.github.io/images/Neofox_SmartPad.png)

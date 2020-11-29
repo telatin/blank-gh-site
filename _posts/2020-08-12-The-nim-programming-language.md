@@ -10,6 +10,9 @@ I started my best journey in a programming language.
 
 <!--more-->
 
+My notes on the journey are available at:
+* **[Nim for Bioinformatics](nim-bioinformatics/)**
+
 ### Pros
 
 * It's a compiled language that can bring significant performance
@@ -23,7 +26,3 @@ I started my best journey in a programming language.
 * Not super mature, and it's probably the time to discover design errors
 * Limited amount of "bio*" libraries
 * Can be harder to debug
-
-
-My notes on the journey are available at:
-* **[Nim for Bioinformatics](https://andrea-telatin.gitbook.io/nim-bioinformatics/)**

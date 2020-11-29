@@ -1,6 +1,9 @@
 ---
 layout: post
 title: covtobed, the lost software
+tags:
+  - bioinformatics
+  - coding
 ---
 
 [![CovToBed banner](https://github.com/telatin/covtobed/raw/master/img/coverage_bam_to_bed.png)](https://github.com/telatin/covtobed)
