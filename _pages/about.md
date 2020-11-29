@@ -6,7 +6,6 @@ title: About me
 
 ---
 
-
 {% include components/intro.md %}
 
 
@@ -18,6 +17,8 @@ title: About me
 * [Mini bioinformatics tutorials](https://medium.com/@telatin)
 * [Perl modules](https://metacpan.org/author/PROCH?sort=[[3,1]])
 * [GitHub](https://github.com/telatin/)
+
+* [Short CV](cv.html)
 
 ### Spare time activities
 

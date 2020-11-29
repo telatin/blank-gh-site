@@ -1,4 +1,4 @@
-## Hello World!
+## Hello there!
 
 I'm a researcher in **microbial genomics** and **bioinformatics**,
 loving the bridge between molecular biology and computer science.
