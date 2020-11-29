@@ -7,8 +7,8 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Friday Theme            # Site title
-name:             Friday Theme            # Your name
+title:            Andrea Telatin            # Site title
+name:             Andrea Telatin           # Your name
 avatar:           /images/Andrea-Telatin.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
