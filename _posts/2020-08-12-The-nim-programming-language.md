@@ -1,6 +1,7 @@
 ---
-layout: post
 title: The Nim programming language for bioinformatics
+tags:
+  - coding
 ---
 
 I first heard of **nim** discovering [mosdepth](https://github.com/brentp/mosdepth), a fantastic program to extract coverage information from alignments. I just thought it was a bizarre choice and never thought again about it...until also [Heng Li blogged](https://lh3.github.io/2020/05/17/fast-high-level-programming-languages) about fast programming languages for bioinformatics.
