@@ -13,7 +13,7 @@ avatar:           /images/Andrea-Telatin.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
-baseurl: "/telatin.github.io"
+baseurl: "/"
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
