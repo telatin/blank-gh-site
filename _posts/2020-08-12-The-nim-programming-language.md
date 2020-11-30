@@ -11,7 +11,7 @@ I started my best journey in a programming language.
 <!--more-->
 
 My notes on the journey are available at:
-* **[Nim for Bioinformatics](nim-bioinformatics/)**
+* **[Nim for Bioinformatics](https://telatin.github.io/nim-bioinformatics/)**
 
 ### Pros
 

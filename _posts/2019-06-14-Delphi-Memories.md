@@ -16,7 +16,8 @@ Here one of my masterpieces:
 
 ![GifPlus](https://telatin.github.io/images/Neofox_GifPlus3_Screenshot_1.png)
 
-I'm quite proud of the look and feel, if compared with the standard things at the time ^_^! It can be [downloaded](https://telatin.github.io/files/gifplus3.exe) for the braves.
+I'm quite proud of the look and feel, if compared with the standard things at the time ^_^! It can be
+[downloaded](https://github.com/telatin/telatin.github.io/releases/download/2020/gifplus3.exe) for the braves.
 
 Has that experience been useful somehow? Well, for my very first bioinformatics project (2004) I needed to scrape an online database, and... **Delphi** came to the rescue:
 
@@ -31,6 +32,6 @@ too hard for me to manage and so the result was a useless WordPad clone:
 
 Didn't have enough?
 
- * [Tetris](https://telatin.github.io/files/tetris.zip)
- * [Chess](https://telatin.github.io/files/chess.zip)
- * [Solitair](https://telatin.github.io/files/sol.zip)
+ * [Tetris](https://github.com/telatin/telatin.github.io/releases/download/2020/tetris.zip)
+ * [Chess](https://github.com/telatin/telatin.github.io/releases/download/2020/chess.zip)
+ * [Solitair](https://github.com/telatin/telatin.github.io/releases/download/2020/sol.zip)
