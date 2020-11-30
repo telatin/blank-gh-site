@@ -16,7 +16,7 @@ My notes on the journey are available at:
     <span class="icon red ml-2">
         {% include entypo/book.svg %}
     </span>
-    <strong><a href="https://telatin.github.io/nim-for-bioinformatics/">Nim for Bioinformatics</a>, e-book
+    <strong><a href="https://telatin.github.io/nim-for-bioinformatics/">Nim for Bioinformatics</a>, e-book</strong>
 </p>
 
 
