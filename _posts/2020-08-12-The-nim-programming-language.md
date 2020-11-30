@@ -11,7 +11,13 @@ I started my best journey in a programming language.
 <!--more-->
 
 My notes on the journey are available at:
-* **[Nim for Bioinformatics](https://telatin.github.io/nim-bioinformatics/)**
+<p class="d-flex align-items-center">
+    **[Nim for Bioinformatics](https://telatin.github.io/nim-for-bioinformatics/)**, e-book
+    <span class="icon red ml-2">
+        {% include entypo/book.svg %}
+    </span>
+</p>
+
 
 ### Pros
 
