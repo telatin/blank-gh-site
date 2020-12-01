@@ -1,8 +1,7 @@
 ---
 layout: defaults/page
 narrow: true
-title: Bash tutorial
-
+title: Bash tutorial2
 ---
 
 
