@@ -5,6 +5,7 @@ tags:
   - bash
 ---
 
+# "for" loops in Bash scripting
 
 After a small [introduction]({{ site.baseurl }}{% link _articles/01-bash.md %}) to Bash scripting,
 we finally create a first bioinformatics script…

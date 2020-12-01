@@ -58,8 +58,8 @@ giving us the total number of files (and directories) in the current position.
 
 Let’s suppose that the file has been saved in our home directory.
 If we execute it from there we’ll get, as expected, the total number of files in that directory.
-But if we execute it from another path, let’s say form /tmp, the result will change.
-This because what matters is where the script has been invoked from, not the script’s position in the file system.
+But if we execute it from another path, let’s say from _/tmp_, the result will change.
+This happens because what matters is where the script has been invoked from, not the script’s position in the file system.
 
 ## A first introduction to variables
 
