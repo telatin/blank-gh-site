@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Config for your profile.
 title:            Andrea Telatin            # Site title
 name:             Andrea Telatin           # Your name
-avatar:           /images/Andrea-Telatin.jpg   # Path to an avatar image
+avatar:           /images/Andrea_Telatin_blue.png   # Path to an avatar image
 google_analytics: true
 
 # The theme uses the baseurl throughout, which is useful for running the entire
@@ -41,7 +41,7 @@ collections:
     output: true
     title: articles
     permalink: /:collection/:name.html
-    
+
 defaults:
 # Turn the profile sidebar on for all pages by default, except for the
 # collections, where it is off and replaced by useful things on the sidebar.

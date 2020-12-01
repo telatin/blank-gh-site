@@ -8,9 +8,9 @@ title: A bioinformatician's garret
 
 {% include components/intro.md %}
 
-### Recent Articles
+### Some Articles
 
-{% for post in site.articles limit:3 %}
+{% for post in site.articles limit:4 %}
 {% include components/article-card-mini.html %}
 {% endfor %}
 
@@ -20,7 +20,7 @@ title: A bioinformatician's garret
 {% include components/post-card.html %}
 {% endfor %}
 
-### Older posts
+### And less recent posts
 
 {% for post in site.posts limit:6 offset:3 %}
 {% include components/post-card-mini.html %}
