@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 title:            Andrea Telatin            # Site title
 name:             Andrea Telatin           # Your name
 avatar:           /images/Andrea-Telatin.jpg   # Path to an avatar image
+google_analytics: true
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
@@ -63,6 +64,12 @@ defaults:
   -
     scope:
       path: "_projects"
+    values:
+      show_profile: false
+      layout: defaults/project
+  -
+    scope:
+      path: "_articles"
     values:
       show_profile: false
       layout: defaults/project
