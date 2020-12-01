@@ -1,10 +1,11 @@
 ---
-layout: defaults/page
+layout: defaults/article
 title: For loops (Bash scripting, part 2)
 tags:
   - bash
 ---
-{% link list/projects.md %}
+
+
 After a small [introduction]({{ site.baseurl }}{% link _articles/01-bash.md %}) to Bash scripting,
 we finally create a first bioinformatics script…
 introducing one of the **loops** we can use with the shell.
