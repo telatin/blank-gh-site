@@ -10,7 +10,11 @@ show_profile: true
 {% endfor %}
 
 
-## Articles 
+### Subsites
+- [QAX, Qiime Artifact eXtractor (documentation)](/qax)
+- [SeqFu2](/seqfu2)
+
+### Articles
 {% for project in site.articles %}
 - [{{ project.title }}]({{ site.baseurl }}{{ project.url }})
 {% endfor %}
