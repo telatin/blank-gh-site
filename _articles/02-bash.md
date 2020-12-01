@@ -42,7 +42,8 @@ This because we simply added “.bam” at the end of the filename.
 
 Bash has a feature called variable substitution. It works with this syntax `${VariableName/WhatToFind/Replacement}`:
 
-```variable='Hello World!'
+```
+variable='Hello World!'
 echo ${variable/World/Universe}
 ```
 
