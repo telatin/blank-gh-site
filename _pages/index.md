@@ -16,6 +16,10 @@ title: Some bioinformatics stuff
 
 ### Recent Posts
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:2 %}
 {% include components/post-card.html %}
+{% endfor %}
+
+{% for post in site.posts limit:6 offset:2 %}
+{% include components/post-card-mini.html %}
 {% endfor %}
