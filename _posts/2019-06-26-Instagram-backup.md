@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Instagram backup
+tags:
+  - coding
 ---
 
 [![Reading the human genome](https://www.telatin.com/pics/photos/201503/telatin_genome.jpg)](https://www.telatin.com/pics/instagram/)
 
-In an early *throw back thursday* mode, I found a (relatively old) Instagram backup in my hard disk. 
+In an early *throw back thursday* mode, I found a (relatively old) Instagram backup in my hard disk.
 What you get is a full collection of pictures and a JSON files with their captions, or at least this was what more than
 one year ago Instagram gave you.
 

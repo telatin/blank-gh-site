@@ -1,1 +1,2 @@
-gem 'jekyll-twitter-plugin'
+gem 'jemoji'
+gem 'jekyll-gist'

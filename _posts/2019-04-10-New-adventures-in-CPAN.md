@@ -1,6 +1,8 @@
 ---
 layout: post
 title: New adventures in CPAN
+tags:
+  - coding
 ---
 
 This April I started using `Dist::Zilla` aka _Maximum overkill for CPAN Authors_.
@@ -17,7 +19,7 @@ consider it the second major milestone in my Perl development career:
 
 While I started implementing _naive_ unit tests a while ago, and they really save your life,
 [using modules](http://www.jmdeldin.com/bioinf/testing/index.html)
- and the test suite provided by Perl ensures adoption of a better 
+ and the test suite provided by Perl ensures adoption of a better
 coding pattern, easier to be inspected by others.
 
 In this context, when you submit your module to CPAN, it will enter the **CPAN Test grid**

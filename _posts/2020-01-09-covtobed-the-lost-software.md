@@ -1,6 +1,9 @@
 ---
 layout: post
 title: covtobed, the lost software
+tags:
+  - bioinformatics
+  - coding
 ---
 
 [![CovToBed banner](https://github.com/telatin/covtobed/raw/master/img/coverage_bam_to_bed.png)](https://github.com/telatin/covtobed)
@@ -9,7 +12,7 @@ Back in 2014 I was working on a large (for the time) set of *Target Enrichment* 
 For the set up of the panels we wanted to check that the regions we wanted were effectively
 captured, and I started using some standard tools (like `samtools`, `bedtools`...) but that
 resulted in quite a slow step to be performed several times.
-
+<!--more-->
 So I asked my talented colleague Giovanni if he could help with his C++ skills, and indeed
 a program called **coverage** was born in a matter of a day. Using a library to parse BAM files
 (`libbamtools-dev`) I could feed a sorted BAM file, the target BED and obtain a BED output
@@ -36,4 +39,3 @@ conda install -y bioconda covtobed
 ```
 
 And the documentation is now in a [GitHub Wiki](https://github.com/telatin/covtobed/wiki).
-

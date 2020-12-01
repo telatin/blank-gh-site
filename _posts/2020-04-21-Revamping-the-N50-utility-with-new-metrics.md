@@ -1,25 +1,28 @@
 ---
 layout: post
 title: Revamping the N50 utility with new metrics
+tags:
+  - coding
 ---
 
-My first Perl Module has been an [N50 calculator](https://metacpan.org/pod/Proch::N50), that 
+My first Perl Module has been an [N50 calculator](https://metacpan.org/pod/Proch::N50), that
 to me is sort of an _Hello World_ considering I spent most of my PhD trying to improve one
 (lovely) assembly.
 
 I tried to make its bundled utility, called simply **n50**, useful both for interactive sessions
 and for scripts, and the utility itself has been my first tool packaged in [bioconda](https://anaconda.org/bioconda/n50).
 
-But... a script that does a relatively small set of things, does it really need to be packaged with a module for its 
+<!--more-->
+But... a script that does a relatively small set of things, does it really need to be packaged with a module for its
 calculations?
 
 ### A new metric added in no time
 
-On April 8th, Heng Li [posted a comment](https://lh3.github.io/2020/04/08/a-new-metric-on-assembly-contiguity) on a "new" 
+On April 8th, Heng Li [posted a comment](https://lh3.github.io/2020/04/08/a-new-metric-on-assembly-contiguity) on a "new"
 metric to evaluate assemblies, that he called **auN**,
 interpreted as the area under the _Nx_ curve.
 
-On April 9th the new metric was already added to the [Proch::N50](https://metacpan.org/changes/distribution/Proch-N50) 
+On April 9th the new metric was already added to the [Proch::N50](https://metacpan.org/changes/distribution/Proch-N50)
 module, and its **n50** utility, and the day after it was (automatically) available on **Bioconda**, so that a simple
 
 ```

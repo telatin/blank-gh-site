@@ -1,53 +1,56 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<html lang="en">
 
-    {% include meta.html %}
+{% include structure/head.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+<body>
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+{% include bars/nav.html %}
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+{% capture col1 %}{% if page.narrow %}3{% else %}4{% endif %}{% endcapture %}
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+{% capture col2 %}{% if page.narrow %}9{% else %}8{% endif %}{% endcapture %}
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/cv">CV</a>
-	    <a href="{{ site.baseurl }}/training">Training</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
+<div class="container site-container" id="top">
+    <div class="row">
+        <div class="d-none d-lg-block col-lg-4 col-xl-{{ col1 }} side">
+            {% include bars/side.html %}
+        </div>
+        <div class="col-md-12 col-lg-8 col-xl-{{ col2 }} pb-4 content">
+            {{ content }}
+        </div>
+        <div class="col-md-12 d-lg-none bottom">
+            {% include bars/bottom.html %}
+        </div>
     </div>
+</div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+<script type="text/javascript">
+/*!
+ * IE10 viewport hack for Surface/desktop Windows 8 bug
+ * Copyright 2014-2017 The Bootstrap Authors
+ * Copyright 2014-2017 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+// See the Getting Started docs for more information:
+// https://getbootstrap.com/getting-started/#support-ie10-width
 
-    {% include analytics.html %}
-  </body>
+(function () {
+    'use strict'
+
+    if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+        var msViewportStyle = document.createElement('style')
+        msViewportStyle.appendChild(
+            document.createTextNode(
+                '@-ms-viewport{width:auto!important}'
+            )
+        )
+        document.head.appendChild(msViewportStyle)
+    }
+}())
+</script>
+
+</body>
+
 </html>

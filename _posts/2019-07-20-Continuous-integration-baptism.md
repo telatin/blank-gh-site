@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Continuous integration can be addictive
+tags:
+  - coding
 ---
 
 After praising the romantic structure of the **Perl testers grid**, last week

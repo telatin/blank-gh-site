@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Online POD preview
+tags:
+  - coding
 ---
 
 The [Plain Old Documentation](https://metacpan.org/pod/perlpod) is probably
-only **old**, and no longer plain (who would say to _prefer_ POD to MarkDown, 
+only **old**, and no longer plain (who would say to _prefer_ POD to MarkDown,
 for example)?
-
+<!--more-->
 But when POD is needed, there are two resources I love:
 
  * [Online Live POD Preview](http://podwebview.odyniec.net/#) - Choose your theme (MetaCPAN included) and draft your POD online
