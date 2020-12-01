@@ -8,6 +8,11 @@ title: Some bioinformatics stuff
 
 {% include components/intro.md %}
 
+### Recent Articles
+
+{% for post in site.articles limit:3 %}
+{% include components/article-card-mini.html %}
+{% endfor %}
 
 ### Recent Posts
 
