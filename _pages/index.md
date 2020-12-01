@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Some bioinformatics stuff
+title: A bioinformatician's garret
 ---
 
 
@@ -16,10 +16,12 @@ title: Some bioinformatics stuff
 
 ### Recent Posts
 
-{% for post in site.posts limit:2 %}
+{% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
 
-{% for post in site.posts limit:6 offset:2 %}
+### Older posts
+
+{% for post in site.posts limit:6 offset:3 %}
 {% include components/post-card-mini.html %}
 {% endfor %}
