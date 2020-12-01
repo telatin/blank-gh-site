@@ -37,7 +37,11 @@ collections:
     output: true
     title: portfolio
     permalink: /:collection/:name.html
-
+  articles:
+    output: true
+    title: articles
+    permalink: /:collection/:name.html
+    
 defaults:
 # Turn the profile sidebar on for all pages by default, except for the
 # collections, where it is off and replaced by useful things on the sidebar.
