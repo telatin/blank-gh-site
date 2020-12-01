@@ -16,11 +16,11 @@ avatar:           /images/Andrea-Telatin.jpg   # Path to an avatar image
 baseurl: "/"
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+include: ["_pages", "_portfolio", "_articles"]
 
 plugins:
   - jemoji
-  
+
 # Wire in the SASS files in the theme directory.
 sass:
   sass_dir: theme/_sass
