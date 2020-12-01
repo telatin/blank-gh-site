@@ -1,8 +1,8 @@
 ---
-layout: defaults/page
+layout: defaults/article
 title: Bash tutorial (part 1)
 tags:
-  - bash
+  - Bash
 ---
 
 # A small introduction to Bash scripting
