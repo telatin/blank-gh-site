@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bash training time
 tags:
   - training

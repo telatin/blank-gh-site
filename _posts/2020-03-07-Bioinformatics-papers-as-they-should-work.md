@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bioinformatics papers as they should work
 tags:
   - bioinformatics

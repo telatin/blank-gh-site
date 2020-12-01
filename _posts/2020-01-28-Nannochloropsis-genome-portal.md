@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Nannochloropsis genome portal (moved)
 tags:
   - bioinformatics

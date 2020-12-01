@@ -1,5 +1,4 @@
 ---
-layout: post
 title: covtobed, the lost software
 tags:
   - bioinformatics

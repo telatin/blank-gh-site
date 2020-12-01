@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Remove PDF password CLI
 tags:
   - coding

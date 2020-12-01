@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Online POD preview
 tags:
   - coding

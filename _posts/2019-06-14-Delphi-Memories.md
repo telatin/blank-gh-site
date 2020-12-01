@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Delphi Memories
 tags:
   - coding
@@ -15,7 +14,7 @@ with what I can now define the **best** RAD studio ever!
 Here one of my masterpieces:
 
 ![GifPlus](https://telatin.github.io/images/Neofox_GifPlus3_Screenshot_1.png)
-
+<!--more-->
 I'm quite proud of the look and feel, if compared with the standard things at the time ^_^! It can be
 [downloaded](https://github.com/telatin/telatin.github.io/releases/download/2020/gifplus3.exe) for the braves.
 

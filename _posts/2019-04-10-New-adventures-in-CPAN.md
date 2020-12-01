@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New adventures in CPAN
 tags:
   - coding
@@ -14,7 +13,7 @@ time so painful and complex to deserve its tag line.
 
 There are so many things that I learned with my small CPAN journey that I really
 consider it the second major milestone in my Perl development career:
-
+<!--more-->
 ### Structured unit tests
 
 While I started implementing _naive_ unit tests a while ago, and they really save your life,

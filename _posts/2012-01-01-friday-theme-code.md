@@ -1,8 +1,7 @@
 ---
 title: How to write code, with syntax highlighting
 tags:
-  - syntax highlighting
-  - code
+  - Theme
 ---
 
 This post demonstrates both inline code and code blocks with syntax highlighting.
@@ -20,7 +19,7 @@ Code blocks are wrapped in the `highlight` liquid tag together with a keyword to
 {% endhighlight %}
 {% endraw %}
 {% endhighlight %}
- 
+
 ## Examples
 
 ### JavaScript
@@ -60,7 +59,7 @@ class Employee:
       self.name = name
       self.salary = salary
       Employee.empCount += 1
-   
+
    def displayCount(self):
      print "Total Employee %d" % Employee.empCount
 
