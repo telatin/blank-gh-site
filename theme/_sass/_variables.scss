@@ -4,6 +4,7 @@
 // for things to override.
 
 // Set the primarys colour to green. 2c467c
-$defaultgreen: #28a745 !default;
-$blue: #0B57B9 !default;
-$primary: $blue !default;
+$default-green: #28a745 !default;
+$link-blue:     #0b448e !default;
+$image-blue:    #0B57B9 !default;
+$primary: link-blue !default;
