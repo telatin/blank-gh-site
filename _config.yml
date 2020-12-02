@@ -7,7 +7,7 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Andrea Telatin            # Site title
+title:            A bioinformatician's garret - Andrea Telatin            # Site title
 name:             Andrea Telatin           # Your name
 avatar:           /images/Andrea_Telatin_blue.png   # Path to an avatar image
 google_analytics: true

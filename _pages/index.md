@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: A bioinformatician's garret
+title: A binfie’s garret
 ---
 
 
