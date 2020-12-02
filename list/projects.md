@@ -11,8 +11,11 @@ show_profile: true
 
 
 ### Subsites
+
 - [QAX, Qiime Artifact eXtractor (documentation)](/qax)
-- [SeqFu2](/seqfu2)
+
+- [SeqFu2 sequence utilities (documentation)](/seqfu2)
+
 
 ### Articles
 {% for project in site.articles %}
