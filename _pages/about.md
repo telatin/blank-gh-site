@@ -11,16 +11,17 @@ title: About me
 
 ### Links
 
-* [Homepage](https://telatin.com)
-* [Publications](https://scholar.google.com/citations?user=Bua3yncAAAAJ)
-* [Slides](https://www.slideshare.net/procionesapiente)
-* [Mini bioinformatics tutorials](https://medium.com/@telatin)
-* [Perl modules](https://metacpan.org/author/PROCH?sort=[[3,1]])
-* [GitHub](https://github.com/telatin/)
+* [Short CV]({{ site.baseurl }}{% link _pages/cv.md %})
 
-* [Short CV](cv.html)
+* [GitHub](https://github.com/telatin/)
+* [Publications](https://scholar.google.com/citations?user=Bua3yncAAAAJ)
+* [Perl modules](https://metacpan.org/author/PROCH?sort=[[3,1]])
+* [Mini bioinformatics tutorials](https://medium.com/@telatin)
+* [Slides](https://www.slideshare.net/procionesapiente)
+
 
 ### Spare time activities
 
 * [Scouting training](https://scautismo.org/kudu) with the **Kudu Association**.
 * Member and volunteer for [Incontro fra i Popoli](http://www.incontrofraipopoli.it), an Italian NGO.
+* Member of [CICAP](https://www.cicap.org/), an Italian, non-profit, skeptic educational organization, founded in 1989 to promote a scientific and critical investigation of pseudosciences-
