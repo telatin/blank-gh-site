@@ -12,9 +12,11 @@ show_profile: true
 
 ### Subsites
 
-- [QAX, Qiime Artifact eXtractor (documentation)](/qax)
+- :package: [QAX, Qiime Artifact eXtractor (documentation)]({{ site.baseurl }}/qax)
 
-- [SeqFu2 sequence utilities (documentation)](/seqfu2)
+- :package: [SeqFu2 sequence utilities (documentation)]({{ site.baseurl }}/seqfu2)
+
+- :book: [Nim for bioinformatics (ebook)]({{ site.baseurl }}/nim-for-bioinformatics)
 
 
 ### Articles

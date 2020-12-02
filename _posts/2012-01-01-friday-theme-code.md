@@ -1,7 +1,7 @@
 ---
 title: How to write code, with syntax highlighting
 tags:
-  - Theme
+  - theme
 ---
 
 This post demonstrates both inline code and code blocks with syntax highlighting.

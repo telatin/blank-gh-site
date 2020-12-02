@@ -1,7 +1,7 @@
 ---
 title: Bioinformatics training tour
 tags:
- - Training
+ - training
 ---
 
 The company I work for, _BMR Genomics_,  organised a "**NGS training tour**"
