@@ -8,6 +8,8 @@ title: A binfie’s garret
 
 {% include components/intro.md %}
 
+[![GitHub](https://github-readme-stats.vercel.app/api?username=telatin&count_private=true&show_icons=true)](https://github.com/telatin)
+
 ### Some Articles
 
 {% for post in site.articles limit:4 %}
