@@ -103,4 +103,4 @@ as they are merely storing some information inside two boxes.
 To make use of a variable we can retrieve it using the `$NAME` notation.
 In this script we did simply print its content using an _echo_ command.
 
-_Norwich, 2018–02–03_
+_Norwich, 2018–02–03. Originally [published here](https://medium.com/ngs-sh/a-small-introduction-to-bash-scripting-part-1-683c3633b724)_

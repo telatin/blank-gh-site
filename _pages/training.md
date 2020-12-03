@@ -1,12 +1,10 @@
 ---
 layout: defaults/page
-permalink: training.html
+permalink: training/
 narrow: true
 title: Bioinformatics training
 
 ---
-
-## Bioinformatics training
 
 ![ngs training](images/ngstraining.jpg)
 
@@ -22,19 +20,19 @@ on using the computer as a dry lab where to test hypotheses and to inspect speci
 
 ### Experience
 
-On-contract professor at the University of Padua:
+On-contract professor at the **University of Padua**:
   * Genomics (2009, 2010, 2012, [2014](http://perl.4ngs.com/))
   * Bioinformatics I (2008, 2011, 2012, 2013)
   * Molecular Biology I (2008, 2011)
   * Bioinformatics for Genomics ([University of Ferrara](http://m.docente.unife.it/docenti-en/andrea.telatin), 2015)
 
-Trainer at [BMR Genomics](https://www.bmr-genomics.it/servizi/area-formazione/bioinformatica-16s-ngs/) (spin-off)
+Trainer at **[BMR Genomics](https://www.bmr-genomics.it/servizi/area-formazione/bioinformatica-16s-ngs/)** (spin-off)
   * 40 hours bioinformatics training for researchers (held twice a year, 2015-2017)
   * 8 hours bioinformatics training "_Bioinformatics approaches to adaptations, genome evolution and biological associations_" (2015)
 
-Trainer at the [Quadram Institute Bioscience](https://www.quadram.ac.uk/):
+Trainer at the **[Quadram Institute Bioscience](https://www.quadram.ac.uk/)**:
   * [Bash for Bioinformatics](https://github.com/telatin/learn_bash/wiki) (2018-2020)
-  * Bite-sized bioinformatics ([2017-2019](https://medium.com/@telatin))
+  * Bite-sized bioinformatics ([2017-2019](https://medium.com/@telatin))training/
   * Guest trainer at the [CLIMB Workshop in the Gambia, 2018](https://www.climb.ac.uk/mrc-climb-bioinformatics-workshop-at-the-mrc-unit-in-the-gambia/)
   * Invited Trainer at the [Young Biologists Symposium, Lebanon](https://eventscal.lau.edu.lb/conferences/ybs2018/program.php)
   * Invited Trainer at the Jiangnan University (Wuxi, China - November 2019)
