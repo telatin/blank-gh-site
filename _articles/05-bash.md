@@ -29,7 +29,7 @@ To expand our script that converts SAM files to BAM, we can pretend to receive a
 
 If a parameter is passed, it’s important to check that its a valid directory with the `-d` operator:
 
-{% gitst 429e58f23c48c105badb17204f9b286e %}
+{% gist 429e58f23c48c105badb17204f9b286e %}
 
 As you can see with some simple concepts we have been able to draft a fairly simple script that performs some commands and — perhaps more importantly — checks that everything is going as expected.
 
