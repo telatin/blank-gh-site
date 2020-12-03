@@ -6,7 +6,7 @@ title: Bioinformatics training
 
 ---
 
-![ngs training](images/ngstraining.jpg)
+![ngs training]({{ site.baseurl }}{% link images/ngstraining.jpg %})
 
 ### Motivation
 
@@ -39,6 +39,7 @@ Trainer at the **[Quadram Institute Bioscience](https://www.quadram.ac.uk/)**:
   * Trainer for [MRC CLIMB BIG DATA](http://www.climb.ac.uk/) (Online event, October 2020)
 
 
+### From Twitter
 
 <div style="margin: 0 auto 0 auto;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lizbeth Sayavedra and I just finished our <a href="https://twitter.com/hashtag/Bioinformatics?src=hash&amp;ref_src=twsrc%5Etfw">#Bioinformatics</a> <a href="https://twitter.com/hashtag/Workshop?src=hash&amp;ref_src=twsrc%5Etfw">#Workshop</a> in <a href="https://twitter.com/hashtag/Wuxi?src=hash&amp;ref_src=twsrc%5Etfw">#Wuxi</a>, with motivated students and perfect hosts! Thank you all for your warm hospitality @ Jiangnan University — <a href="https://twitter.com/NarbadLab?ref_src=twsrc%5Etfw">@NarbadLab</a> <a href="https://twitter.com/TheQuadram?ref_src=twsrc%5Etfw">@TheQuadram</a> <a href="https://t.co/0qKNwjD8q0">pic.twitter.com/0qKNwjD8q0</a></p>&mdash; andrea telatin (@telatin) <a href="https://twitter.com/telatin/status/1197527770735271944?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
