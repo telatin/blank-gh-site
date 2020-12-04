@@ -9,7 +9,8 @@ tags:
     <span class="icon red ml-2 pb-2">
         {% include entypo/documents.svg %}
     </span>
-    <span>
+
+    <span style="padding-left: 1em;">
     Mark J. Pallen, Andrea Telatin, Aharon Oren<br>
     <strong><a href="https://www.sciencedirect.com/science/article/pii/S0966842X20302717">
     The Next Million Names for Archaea and Bacteria</a>
@@ -32,7 +33,7 @@ approach, so with a bunch of components we can produce thousands new names.
 
 Here an example of the roots to be used:
 
-<div class="carousel-item active">
+<div>
     <img src="{{ site.baseurl }}{% link images/gan-input.png %}" class="d-block w-100" alt="GAN input">
 </div>
 
