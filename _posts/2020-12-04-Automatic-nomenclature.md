@@ -31,12 +31,13 @@ so giving a name to each can be challenging. Unless we use a **combinatorial**
 approach, so with a bunch of components we can produce thousands new names.
 
 Here an example of the roots to be used:
-![roots](https://raw.githubusercontent.com/telatin/gan/master/docs/input_table.png)
+![roots]({{ site.baseurl }}{% link images/gan-input.png %})
 
-"The great automatic nomenclaturer" is a reference to a short story
+"_The great automatic nomenclaturer_" is a reference to a short story
 ("[The Great Automatic Grammatizator](https://en.wikipedia.org/wiki/The_Great_Automatic_Grammatizator)")
 written by the British author Roald Dahl.
 
-- [Software repository](https://github.com/telatin/gan)
-- [Example output: PDF](https://telatin.github.io/gan/example.pdf)
-- [Example output: HTML](https://telatin.github.io/gan/example.html)
+### Links
+- :package: [Software repository](https://github.com/telatin/gan)
+- :page_with_curl: [Example output: PDF](https://telatin.github.io/gan/example.pdf)
+- :page_with_curl: [Example output: HTML](https://telatin.github.io/gan/example.html)
