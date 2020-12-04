@@ -18,6 +18,8 @@ tags:
     </span>
 </p>
 
+<!--more-->
+
 I recently had the opportunity to work on an intriguing project: the
 **Great Automatic Nomenclaturer**, conceived by Mark Pallen in his
 attempt to give a valid latin (binomial) name to the novel species he
