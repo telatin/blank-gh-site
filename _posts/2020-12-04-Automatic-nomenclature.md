@@ -31,7 +31,11 @@ so giving a name to each can be challenging. Unless we use a **combinatorial**
 approach, so with a bunch of components we can produce thousands new names.
 
 Here an example of the roots to be used:
-![roots]({{ site.baseurl }}{% link images/gan-input.png %})
+
+<div class="carousel-item active">
+    <img src="{{ site.baseurl }}{% link images/gan-input.png %}" class="d-block w-100" alt="GAN input">
+</div>
+
 
 "_The great automatic nomenclaturer_" is a reference to a short story
 ("[The Great Automatic Grammatizator](https://en.wikipedia.org/wiki/The_Great_Automatic_Grammatizator)")
