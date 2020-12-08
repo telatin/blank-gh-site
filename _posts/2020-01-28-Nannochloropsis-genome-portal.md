@@ -7,7 +7,7 @@ tags:
 During my PhD (2012), I made the *Nannochloropsis gaditana* genome portal,
 and also secured the *nannochloropsis.org* domain for it.
 
-{{ site.baseurl }}{% link images/2013-10-22-nannochloropsis.png %}
+![Nannochloropsis portal icons]({{ site.baseurl }}{% link images/2013-10-22-nannochloropsis.png %})
 
 <!--more-->
 After 8 years, I realised that most of the resources it was hosting
@@ -24,9 +24,13 @@ automatic primer picker.
 
 ## Automatic primer picker
 
-This is a small screencast I made **7 years** ago!
+This is a small screencast I made **7 years** ago.
 
 <iframe src="https://player.vimeo.com/video/69833362" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+The idea was to allow to design
+primers to close gaps between contigs, so it was offering to assist in the selection
+using the known information from mate paired reads.
 
 
 ## Blast with GBrowse integration
