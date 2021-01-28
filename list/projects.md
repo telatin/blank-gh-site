@@ -5,10 +5,6 @@ permalink: list/projects.html
 show_profile: true
 ---
 
-{% for project in site.projects %}
-- [{{ project.title }}]({{ site.baseurl }}{{ project.url }})
-{% endfor %}
-
 
 ### Subsites
 
@@ -17,6 +13,14 @@ show_profile: true
 - :package: [SeqFu2 sequence utilities (documentation)]({{ site.baseurl }}/seqfu2)
 
 - :book: [Nim for bioinformatics (ebook)]({{ site.baseurl }}/nim-for-bioinformatics)
+
+- :book: [Singularity for bioinformatics]({{ site.baseurl }}/singularities)
+
+### Projects
+
+{% for project in site.projects %}
+- [{{ project.title }}]({{ site.baseurl }}{{ project.url }})
+{% endfor %}
 
 
 ### Articles
