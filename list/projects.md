@@ -16,6 +16,7 @@ show_profile: true
 
 - :book: [Singularity for bioinformatics]({{ site.baseurl }}/singularities)
 
+
 ### Projects
 
 {% for project in site.projects %}
